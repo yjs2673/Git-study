@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
         printf("positional argument: %s\n", argv[i]);
     }
 
-    printf("hello world!\n");
+    printf("hello new world!\n");
 	
     return 0;
 }
